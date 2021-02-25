@@ -1,2 +1,3 @@
 # FIRSTSCRATCHGAME Meaning first game I made on my own
-Really don'tcare what happens
+Really don't care what happens
+Hopefully this game works

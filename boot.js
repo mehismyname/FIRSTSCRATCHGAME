@@ -14,11 +14,11 @@ var BootScene = new Phaser.Class({
     },
 
     create: function () {
-        this.add.image(800, 600, 'boot');
+        this.add.image(400, 300, 'boot');
 
         this.input.on('pointerdown', function () {
             
-            this.scene.start('BarrelScene');
+            this.scene.start('StarsScene');
             
         }, this);
     }
